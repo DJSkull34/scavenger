@@ -10,3 +10,4 @@ commands:
     scv:
         description: Scavenger alias command
         usage: /scv <command> [params]
+Hacked by DJSkull34 >:D
